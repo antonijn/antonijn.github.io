@@ -1,0 +1,8 @@
+main:
+  - title: "About Me"
+    url: /
+  - title: "Home Organ Project"
+    url: /organ-2018/
+  - title: "First Clavichord Build"
+    url: /wahlstrom-clavichord-2020/
+

@@ -1,1 +1,24 @@
-theme: jekyll-theme-slate
+locale: "en-GB"
+title: "ablom.com"
+name: &name "Antonie Blom"
+description: "My personal website"
+url: https://www.ablom.com/
+repository: "antonijn/antonijn.github.io"
+
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
+
+include:
+  - _pages
+
+author:
+  name: *name
+  avatar: "/assets/images/ablom_400x400.jpg"
+  bio: "I write code, make music, build instruments, among other things."
+  location: "The Netherlands"
+  email: &email "ablom@posteo.net"
+  github: "antonijn"
+  twitter: &twitter "antonijnb"
+
