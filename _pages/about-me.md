@@ -10,7 +10,7 @@ author_profile: true
 
 I'm Antonie, a person with many interests, music and programming chief among them. I'm currently studying mathematics at University for some reason, with a minor in musicology.
 
-Music I prefer of the early kind, that is: Baroque and Renaissance music. Everything about this period fascinates me, from the instruments ([I've copied one of them](/wahlstrom-claivchord-2020/)) and their tunings, to vocal performance practice and counterpoint rules. I'm currently in possession of a clavichord, digital piano, and an electronic organ [which I've digitalized](/organ-2018/). I sing as a bass at the [Nijmegen Student Choir](https://www.nskad.nl/), having previously sung in the [Dutch Student Chamber Choir (NSK)](https://nskk.nl/).
+Music I prefer of the early kind, that is: Baroque and Renaissance music. Everything about this period fascinates me, from the instruments ([I've copied one of them](/wahlstrom-clavichord-2020/)) and their tunings, to vocal performance practice and counterpoint rules. I'm currently in possession of a clavichord, digital piano, and an electronic organ [which I've digitalized](/organ-2018/). I sing as a bass at the [Nijmegen Student Choir](https://www.nskad.nl/), having previously sung in the [Dutch Student Chamber Choir (NSK)](https://nskk.nl/).
 
 My programming experience ranges from low-level work with C and assembly, to general high-level application development in Python, Haskell and Go (among other languages). I've also made some games using OpenGL, and wrote a [C# gaming library](https://github.com/andykorth/Pencil.Gaming) in 2013. Otherwise my interests lie mostly in languages and compilers.
 
