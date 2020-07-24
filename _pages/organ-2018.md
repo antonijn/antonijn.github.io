@@ -87,7 +87,7 @@ Planning
 ===
 The idea of MIDI-fication is to take the signals from the switches of your
 keyboard, run them through a microcontroller (like an Arduino), and have
-the microcontroller output MIDI messages, preferebly via USB. The problem is
+the microcontroller output MIDI messages, preferably via USB. The problem is
 that a single C-c4 organ manual has 61 switches, and most microcontrollers
 don't have 61 inputs.
 
@@ -296,7 +296,7 @@ can't really complain.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/635483097&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/antonijnb" title="antonijnb" target="_blank" style="color: #cccccc; text-decoration: none;">antonijnb</a> · <a href="https://soundcloud.com/antonijnb/frescobaldi-toccata-avanti-la-messa-della-domenica" title="Frescobaldi - Toccata avanti la Messa della Domenica" target="_blank" style="color: #cccccc; text-decoration: none;">Frescobaldi - Toccata avanti la Messa della Domenica</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/635486319&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/antonijnb" title="antonijnb" target="_blank" style="color: #cccccc; text-decoration: none;">antonijnb</a> · <a href="https://soundcloud.com/antonijnb/buxtehude-toccata-in-f-major-buxwv-157" title="Buxtehude - Toccata in F major BuxWV 157" target="_blank" style="color: #cccccc; text-decoration: none;">Buxtehude - Toccata in F major BuxWV 157</a></div>
 
-I learned an aweful lot during this project. It certainly helped that my
+I learned an awful lot during this project. It certainly helped that my
 father has a background in electronics.
 
 In 2019 I helped a friend of
