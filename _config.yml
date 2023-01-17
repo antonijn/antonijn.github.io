@@ -1,8 +1,8 @@
 locale: "en-GB"
-title: "adblom.com"
+title: "adblom.net"
 name: &name "Antonie Blom"
 description: "My personal website"
-url: https://www.ablom.com/
+url: https://www.ablom.net/
 repository: "antonijn/antonijn.github.io"
 
 plugins:
