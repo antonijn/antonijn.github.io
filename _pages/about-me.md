@@ -8,7 +8,7 @@ header:
 author_profile: true
 ---
 
-[Clavichord I built in 2020](/wahlstrom-clavichord-2020/)).
+[Clavichord I built in 2020](/wahlstrom-clavichord-2020/).
 
 [Johannus analogue organ I digitalised in 2018](/organ-2018/).
 
