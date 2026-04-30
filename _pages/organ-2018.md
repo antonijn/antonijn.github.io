@@ -7,16 +7,16 @@ header:
 date: 2020-07-24
 ---
 
-As my interest in J.S. Bach and early music in general became more
-defined, I felt like I had to branch out from the piano. For a while I
-had been considering making a plug-in MIDI organ-style pedalboard for my
-digital piano, but nothing ever came from it. In hindsight this was
-probably for the best; such a project would've taken me ages at the time
-and would only have given me an (awkward) extension of the piano, rather
-than a fully-fledged organ complete with registration.
+As I became more and more interested in early music, I felt like I had
+to branch out from the piano. For a while I had been considering making
+a plug-in MIDI organ-style pedalboard for my digital piano, but nothing
+ever came of it. In hindsight this was probably for the best; such a
+project would've taken me ages at the time and would only have given me
+an (awkward) extension of the piano, rather than a fully-fledged organ
+complete with registration.
 
 I somehow got the idea to, instead, get my hands on an old second
-hand electronic organ, and refurbish it. These old electronic home
+hand electronic organ and refurbish it. These old electronic home
 church organs from the 70s and 80s aren't hard to come by here in the
 Netherlands. Sampling technology wasn't available for consumer-level
 electronic instruments at the time, so instead these instruments relied on
@@ -30,7 +30,7 @@ been up for five minutes when saw it, and as it turned out I was the first
 one out of several hundred people to respond.
 
 My plan was to strip away as much of the old electronics as possible,
-add a couple of Arduino's to convert key/button/pedal presses to
+add a couple of Arduinos to convert key/button/pedal presses to
 digital MIDI signals, and send those via USB to a PC that I would
 integrate into the organ, running sampled organ emulation
 software (GrandOrgue). Most of the organ digitalisations I had seen
@@ -64,10 +64,10 @@ any good.
 The old, bulky, analog electronics panel. It's quite interesting to see
 the creativity the 70s engineers had to put into this.
 
-After we (my dad and I) picked up the organ, the first thing we did was
+After my dad and I picked up the organ, the first thing we did was
 open it up to see what we were dealing with. The hope was that the manuals,
 pedalboard and stops were plugged into the main electronics panel with ribbon
-cables, that could easily be detached and plugged into a new digital circuitboard
+cables that could easily be detached and plugged into a new digital circuitboard
 for MIDI-fication. No such luck unfortunately: everything was connected with
 individual wires, bundled together. This meant a lot soldering was needed...
 
