@@ -101,6 +101,8 @@ chisels and planes was not a problem by this point.
 ![](/assets/images/wahlstrom/bottom-attached.jpg)
 Overview shot with the bottom attached to the frame. The soundboard liners, touchrail and bass hitchpin rail have also been attached.
 
+At this point in the process I made a [short vlog](https://youtu.be/vK67MfBlOcw).
+
 Work progressed steadily until I had to start work on the keyboard. I was
 quite underprepared for this. It is probably the trickiest part of the
 instrument.
