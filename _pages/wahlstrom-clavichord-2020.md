@@ -246,7 +246,7 @@ I even considered outsourcing this part to a professional builder. I
 approached [Maarten Hekkelman](https://www.hekkelman.com/), but he declined
 and instead invited me to his workshop to teach me how to do it. He also
 gave me some other tips, like using a pencil to add graphite to the rack
-slots to reduce friction, and using talcum when hammering in the
+slots to reduce friction, and using talcum powder when hammering in the
 wrestpins to make tuning easier, for which I am very thankful.
 
 For designing a stringing plan I used [a tool from Hekkelman's website](https://www.hekkelman.com/bouwershoek),
@@ -338,11 +338,11 @@ The finished instrument on its finished stand. Don't mind the mess. Also don't m
 # Further resources
 - Bernard Brauchli, _The clavichord_ (Cambridge University Press, 2005).
 - Grant O'Brien, _Ruckers: a harpsichord and virginal building tradition_ (Cambridge University Press, 1990).
-- "Making a clavichord after NM 264.785 in the Musikmuseum", Kenneth Sparr, https://www.tabulatura.com/clavcho.htm.
-- "How to build a clavichord", a report by Owen Daly, http://dustyfeet.com/mykeyboardbaby1.html.
-- Lancelot Edwin Whitehead, "Clavichords of Hieronymus and Johann Hass", (diss., University of Edinburgh, 1994). http://hdl.handle.net/1842/6534.
-- "'Twined' Strings for Clavichords", Peter Bavington, http://www.peter-bavington.co.uk/twined.htm.
-- "Paul Sellers", an excellent woodworking pedagogue, https://www.youtube.com/@Paul.Sellers.
-- "Bouwershoek" (in Dutch), Maarten Hekkelman, https://www.hekkelman.com/bouwershoek.
-- "A Freeware Application for Analysis of Clavichords", courtesy of Scenkonstmuseet, https://clavichord.se/.
-- "Ruckers enigma?", William John Story Jurgenson, https://jw.zabernet.de/pdfs/enigma.pdf.
+- "Making a clavichord after NM 264.785 in the Musikmuseum", Kenneth Sparr, <https://www.tabulatura.com/clavcho.htm>.
+- "How to build a clavichord", a report by Owen Daly, <http://dustyfeet.com/mykeyboardbaby1.html>.
+- Lancelot Edwin Whitehead, "Clavichords of Hieronymus and Johann Hass", (diss., University of Edinburgh, 1994). <http://hdl.handle.net/1842/6534>.
+- "'Twined' Strings for Clavichords", Peter Bavington, <http://www.peter-bavington.co.uk/twined.htm>.
+- "Paul Sellers", an excellent woodworking pedagogue, <https://www.youtube.com/@Paul.Sellers>.
+- "Bouwershoek" (in Dutch), Maarten Hekkelman, <https://www.hekkelman.com/bouwershoek>.
+- "A Freeware Application for Analysis of Clavichords", courtesy of Scenkonstmuseet, <https://clavichord.se/>.
+- "Ruckers enigma?", William John Story Jurgenson, <https://jw.zabernet.de/pdfs/enigma.pdf>.
